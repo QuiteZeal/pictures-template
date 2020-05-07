@@ -1,2 +1,2 @@
-# pictures-template
-A template which show the selected pictures.
+# Web Template
+**Just for Fun.**
